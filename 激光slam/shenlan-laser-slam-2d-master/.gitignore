@@ -1,0 +1,8 @@
+*.pcd
+*.bag
+**/build/
+**/devel/
+**/.vscode/
+*.gitignore~
+*.rar
+*.zip
